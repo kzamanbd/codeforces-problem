@@ -1,0 +1,5 @@
+.cph
+input.txt
+output.txt
+*.exe
+*.cpp
